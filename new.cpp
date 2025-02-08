@@ -2,9 +2,13 @@
 using namespace std;
 
 int main(){
-	cout<<"hello World"<<endll;
+<<<<<<< HEAD
+
 
 	cout<<"feature1 added"<<endl;
+=======
+	cout<<"hello World!!!"<<endll;
+>>>>>>> main
 	return 0;
 
 }
